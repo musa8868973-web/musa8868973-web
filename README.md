@@ -28,20 +28,27 @@
 </td>
 <td width="35%" align="center">
 
+<table>
+<tr><td>
+
+&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;<sub>terminal</sub>
+
 ```
-┌──────────────────────┐
-│  class Engineer:      │
-│                       │
-│    stack = "Backend"  │
-│    focus = "GenAI"    │
-│    mode  = "Building" │
-│                       │
-│    def grow(self):    │
-│      while True:      │
-│        self.ship()    │
-│        self.learn()   │
-└──────────────────────┘
+$ whoami
+muhammad-musa
+
+$ focus
+backend + generative-ai
+
+$ exploring
+RAG · NLP · AI Agents
+
+$ status
+building...█
 ```
+
+</td></tr>
+</table>
 
 </td>
 </tr>
