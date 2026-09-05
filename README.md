@@ -34,17 +34,17 @@
 &nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;●&nbsp;&nbsp;&nbsp;<sub>terminal</sub>
 
 ```
-$ whoami
-muhammad-musa
+$ 𝘄𝗵𝗼 𝗮m I
+𝗺𝘂𝗵𝗮𝗺𝗺𝗮𝗱-𝗺𝘂𝘀𝗮
 
-$ focus
-backend + generative-ai
+$ 𝗳𝗼𝗰𝘂𝘀
+𝗯𝗮𝗰𝗸𝗲𝗻𝗱 + 𝗴𝗲𝗻𝗲𝗿𝗮𝘁𝗶𝘃𝗲-𝗮𝗶
 
-$ exploring
-RAG · NLP · AI Agents
+$ 𝗲𝘅𝗽𝗹𝗼𝗿𝗶𝗻𝗴
+𝗥𝗔𝗚 · 𝗡𝗟𝗣 · 𝗔𝗜 𝗔𝗴𝗲𝗻𝘁𝘀
 
-$ status
-building...█
+$ 𝘀𝘁𝗮𝘁𝘂𝘀
+𝗯𝘂𝗶𝗹𝗱𝗶𝗻𝗴...█
 ```
 
 </td></tr>
